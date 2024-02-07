@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Libre Franklin', sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #0F1B21;
+  color: white;
+}
+
+code {
+  font-family: 'Libre Franklin', sans-serif;
+}
